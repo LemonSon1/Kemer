@@ -17,25 +17,25 @@
                     <key>kind</key>  
                     <string>display-image</string>  
                     <key>url</key>  
-                    <string>https://sign.applep12.com/default_ipa.png</string> 
+                    <string>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HtufumyCn-oVz3xLmNRcFe0CQsp6cMud-WlXFkWrF52-g9pxRf4nE0c4&s=10</string> 
                 </dict>  
                 <dict> 
                     <key>kind</key>  
                     <string>full-size-image</string>  
                     <key>url</key>  
-                    <string>https://sign.applep12.com/default_ipa.png</string> 
+                    <string>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HtufumyCn-oVz3xLmNRcFe0CQsp6cMud-WlXFkWrF52-g9pxRf4nE0c4&s=10</string> 
                 </dict> 
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>p3.xyz.yyyue.esign</string>
+                <string>com.505games.terraria</string>
                 <key>bundle-version</key>
-                <string>1</string>
+                <string>4.4.14</string>
                 <key>kind</key>
-                <string>software</string>
+                <string>Game</string>
                 <key>title</key>
-                <string>ESign - Signed By NezusHub</string>
+                <string>Terraria - Signed By Kemer</string>
             </dict>
         </dict>
     </array>
