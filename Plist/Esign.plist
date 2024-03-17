@@ -17,13 +17,13 @@
                     <key>kind</key>  
                     <string>display-image</string>  
                     <key>url</key>  
-                    <string></string> 
+                    <string>https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png</string> 
                 </dict>  
                 <dict> 
                     <key>kind</key>  
                     <string>full-size-image</string>  
                     <key>url</key>  
-                    <string></string> 
+                    <string>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYx8a9HIqQe8z-nehrRr5npPrcvwhHddA60q0g-kUgXcC4qW_KxXu0EnRt&s=10</string> 
                 </dict> 
             </array>
             <key>metadata</key>
@@ -35,7 +35,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>ESign - Signed By kemer</string>
+                <string>scarlet - Signed By Phat(made by K.Kl)</string>
             </dict>
         </dict>
     </array>
